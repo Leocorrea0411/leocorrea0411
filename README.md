@@ -1,6 +1,6 @@
 ### Olá, meu nome é Leonardo Corrêa 👋
 
-- 👨‍💻 Atualmente sou Supervisor Técnico no Suporte na Alterdata Software.
+- 👨‍💻 Atualmente sou Supervisor Técnico do Suporte na empresa Alterdata Software.
 - 🎓 Estudo Analise e Desenvolvimento de sistemas.
 - 📚 Tenho conhecimentos na linguagem Delphi (Object Pascal).
 
