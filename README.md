@@ -1,7 +1,7 @@
 ### Olá, meu nome é Leonardo Corrêa 👋
 
-- 👨‍💻 Atualmente estou na função de <a href="https://www.linkedin.com/in/leonardo-corr%C3%AAa-156600234/">Supervisor Técnico do Suporte</a> na empresa <a href="https://www.alterdata.com.br/">Alterdata Software.</a>
-- 🎓 Cursando  <a href="https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas">Analise e Desenvolvimento de sistemas.</a>
+- 👨‍💻 Atualmente estou na função de <a href="https://www.linkedin.com/in/leonardo-corr%C3%AAa-156600234/">Técnico de Qualidade (Q.A)</a> na empresa <a href="https://www.alterdata.com.br/">Alterdata Software.</a>
+- 🎓 Cursando ultimo periodo de  <a href="https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas">Analise e Desenvolvimento de sistemas.</a>
 - 📚 Tenho conhecimentos na linguagem <a href="https://www.embarcadero.com/br/products/delphi"> Delphi.</a>
 
 
